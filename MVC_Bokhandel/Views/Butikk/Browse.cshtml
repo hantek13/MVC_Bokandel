@@ -1,0 +1,23 @@
+﻿@model MVC_Bokhandel.Models.Sjanger
+
+@{
+    ViewBag.Title = "Browse";
+}
+
+<h2>Bla gjennom</h2>
+<div>
+    <h3><em>@Model.Navn</em> Bøker</h3>
+
+    <ul id="bok-list">
+        @foreach (var bok in Model.Boker)
+        {
+            <div class="col-xs-6 col-md-3">
+                <a href="@Url.Action("Details", new { id = bok.Id })" class="thumbnail">
+                    <img alt="@bok.Tittel" src="@bok.BildeUrl" />
+                    <span>@bok.Tittel</span>
+                </a>
+            </div>
+        }
+</ul>
+</div>
+

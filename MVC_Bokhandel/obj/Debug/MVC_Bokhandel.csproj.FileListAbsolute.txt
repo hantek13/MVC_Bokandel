@@ -1,0 +1,165 @@
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.dll.config
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.pdb
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Antlr3.Runtime.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.SqlServer.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Newtonsoft.Json.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Owin.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Helpers.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Mvc.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Optimization.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Razor.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Razor.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\WebGrease.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.SqlServer.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Helpers.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Mvc.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Optimization.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Razor.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Razor.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Antlr3.Runtime.pdb
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Newtonsoft.Json.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.dll
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.pdb
+C:\Users\HaimanotFtsumbrhan\Source\Workspace\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.csprojResolveAssemblyReference.cache
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.dll.config
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.pdb
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Antlr3.Runtime.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.SqlServer.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Newtonsoft.Json.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Owin.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Helpers.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Mvc.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Optimization.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Razor.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\WebGrease.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.SqlServer.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Helpers.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Mvc.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Optimization.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Razor.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Antlr3.Runtime.pdb
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Newtonsoft.Json.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.csprojResolveAssemblyReference.cache
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.dll
+C:\Users\Hanna Tekie\Source\Workspaces\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.pdb
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.dll.config
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\MVC_Bokhandel.pdb
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Antlr3.Runtime.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.SqlServer.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Newtonsoft.Json.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Owin.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Helpers.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Mvc.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Optimization.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Razor.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Razor.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\WebGrease.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\EntityFramework.SqlServer.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Helpers.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Mvc.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Optimization.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.Razor.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\System.Web.WebPages.Razor.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Antlr3.Runtime.pdb
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Newtonsoft.Json.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.csprojResolveAssemblyReference.cache
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.dll
+C:\Users\felles\Downloads\Bokhandel\Bokhandel\MVC_Bokhandel\MVC_Bokhandel\obj\Debug\MVC_Bokhandel.pdb

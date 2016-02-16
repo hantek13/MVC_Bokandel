@@ -1,0 +1,44 @@
+﻿@model MVC_Bokhandel.Models.Ordre
+
+@{
+    ViewBag.Title = "AdresseOgBetaling";
+}
+
+<h2>Adresse Og Betaling</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Leveringsinformasjon</h4>
+        <hr />
+        @Html.EditorForModel();
+
+        <h4>Betaling</h4>
+        <p>Kampanje: Vi har kampanje, og alle bøkene er gratis.
+        Bruk Promo Koden: "Free"</p>
+        <hr />
+        
+        <div class="form-group">
+            @Html.Label("Promo Kode", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("PromoKode", new { htmlAttributes = new { @class = "form-control" } })
+            </div>            
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Send ordret" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Til hoved siden", "Index", "Boks")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

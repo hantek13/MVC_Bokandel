@@ -1,0 +1,13 @@
+﻿@model IEnumerable<MVC_Bokhandel.Models.Sjanger>
+
+<ul id="categories">
+    @foreach (var sjanger in Model)
+    {
+        <li>
+            @Html.ActionLink(sjanger.Navn,
+               "Browse", "Butikk",
+               new { Sjanger = sjanger.Navn }, null)
+    </li>
+    }
+</ul>
+

@@ -1,0 +1,49 @@
+﻿@using System.Web.Mvc.Html
+@using MVC_Bokhandel.Models
+@model IEnumerable<MVC_Bokhandel.Models.Bok>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<div class="navbar">
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            @foreach (var sjanger in (List<Sjanger>)ViewBag.Allesj)
+            {
+                <li>@Html.ActionLink(sjanger.Navn, "Browse", "Butikk",new { sjanger = sjanger.Navn }, "")</li>
+
+            }
+
+        </ul>
+    </div>
+</div>
+  @foreach (var item in Model)
+    {
+
+            <div class="col-xs-6 col-md-3">
+                <a href="@Url.Action("Details",
+                        new { id = item.Id })" class="thumbnail">
+                    <img alt="@item.Tittel"
+                         src="@item.BildeUrl" />
+                    <span>@item.Tittel</span>
+                </a>
+                @Html.ActionLink("Add to cart", "LeggTilKurv", "HandleKurv", new { id = item.Id }, "")
+
+                @*<a href=@Html.ActionLink("Add to cart", "Leggtilkurv", "HandleKurv", new { id = item.Id }, "")>
+              
+                    <button type="submit" class="icon icon-add-to-cart"><span class="glyphicon glyphicon-shopping-cart">Kjøp</span></button>
+                </a>*@
+            </div>
+   
+
+    }
+
+    
+
+   

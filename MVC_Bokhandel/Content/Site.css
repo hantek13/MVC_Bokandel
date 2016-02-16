@@ -1,0 +1,136 @@
+﻿/*----------------------------------------------------
+    Body changed
+    ---------------------------------------------------*/
+body {
+    padding-top: 137px;
+    padding-bottom: 20px;
+   background-color: #F1EEEE;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+position: absolute;
+left: 0;
+top: 52px;
+right: 0;
+bottom: 25px;
+margin: auto;
+border-color: #fff;
+background-color: #fff;
+}
+
+/*------------------bok-list-----------*/
+ul#bok-list {
+    list-style: none;
+    margin-left: 0px;
+}
+ul li a
+{
+	font-size: 16px;
+}
+
+ul
+{
+	list-style-type: square;
+	margin-left: 25px;
+	font-size: 14px;
+}
+
+ul#bok-list
+{
+	list-style: none;
+	margin-left: 0px;
+}
+
+ul#bok-list li
+{
+	height: 130px;
+	width: 100px;
+	float: left;
+	margin: 10px;
+	text-align: center;
+}
+
+ul#bok-list li a, ul#bok-list li .button
+{
+	font-size: 13px;
+	float: left;
+}
+
+
+ul#bok-list li a span
+{
+	color: #9b9993;
+	text-decoration: underline;
+}
+
+.thumbnail {
+    text-align:center;
+    color: black
+}
+.thumbnail>img
+{
+ max-width: 70%;
+margin: 5px auto;
+
+}
+
+/*----------------------------------------------------------------
+    Navigation
+    ------------------------------------------------------------*/
+
+#sokinput
+{
+    width:200px;
+}
+/*--------------------------------------------------------
+    Wrapper
+    -------------------------------------------------------
+.container {
+  width:1180px;
+  margin:auto;
+  padding-bottom:20px;
+  background-color:white;
+
+}
+
+-------------------------------------------------------------
+    Banner
+    ------------------------------------------------------------
+
+----------------------------------------------------------------
+    Navigation
+    ------------------------------------------------------------
+.navbar-inverse {
+    background-color: rgba(198, 202, 85, 1);
+    border-color: #080808;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #080808;
+}
+-------------------------------------------------------------
+    Content_area
+    ---------------------------------------------------------
+
+---------------------------------------------------------------
+      Sidebar
+    ------------------------------------------------------------
+
+----------------------------------------------------------------
+    Footer
+    -------------------------------------------------------------*/
+#footer {
+  clear: left;
+  position: absolute;
+  bottom: 0 
+}
+
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+

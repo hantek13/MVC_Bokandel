@@ -1,0 +1,66 @@
+﻿@using MVC_Bokhandel.Models
+@model IEnumerable<MVC_Bokhandel.Models.Ordre>
+
+@{
+    ViewBag.Title = "Min Ordre Historikk";
+}
+
+<h2>MinOrdreHistorikk</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Fornavn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Etternavn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adresse)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PostNr)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TelefonNr)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Epost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrdreDato)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in (List<Ordre>)ViewBag.MineOrdrer)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fornavn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Etternavn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Adresse)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PostNr)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TelefonNr)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Epost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrdreDato)
+        </td>
+        <td>
+            @Html.ActionLink("Details", "OrdreDetalje", new { id=item.Id }) 
+        </td>
+    </tr>
+}
+
+</table>

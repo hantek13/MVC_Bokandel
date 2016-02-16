@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MVC_Bokhandel.Models.Sjanger>
+
+@{
+    ViewBag.Title = "Butikk";
+}
+
+<h2>Bla gjennom sjangere</h2>
+
+
+<div class="navbar">
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            @foreach (var sjanger in Model)
+            {
+                <li>@Html.ActionLink(sjanger.Navn, "Browse", new { sjanger = sjanger.Navn })</li>
+
+            }
+
+        </ul>
+    </div>
+</div>

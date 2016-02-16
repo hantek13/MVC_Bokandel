@@ -1,0 +1,62 @@
+﻿@model MVC_Bokhandel.Models.Bok
+
+@{
+    ViewBag.Title = "Bok - " + Model.Tittel;
+}
+
+
+<h2>@Model.Tittel</h2>
+
+<p>
+    
+        <div class="col-xs-6 col-md-3">
+            <a href="#" class="thumbnail">
+                <img alt="@Model.Tittel" src="@Model.BildeUrl" />
+            </a>
+        </div>
+ 
+   
+</p>
+
+
+<div id ="bok-details">
+
+    <p>
+        <strong>ISBN:</strong>
+        @Model.Isbn
+    </p>
+    <p>
+        <strong>Tittel:</strong>
+        @Model.Tittel
+    </p>
+
+    <p>
+        <strong>Antall Sider:</strong>
+        @Model.AntallSider
+    </p>
+    <p>
+        <strong>Format:</strong>
+        @Model.Format
+    </p>
+    <p>
+        <strong>Antall Bøker på lager:</strong>
+        @Model.AntallBokerILager
+    </p>
+
+   
+    
+    <p class="button">
+        @Html.ActionLink("Add to cart", "LeggTilKurv", "HandleKurv", new { id = Model.Id }, "")
+        
+       
+        
+
+        @*, "AddToCart",
+            "ShoppingCart", new { id = Model.AlbumId }, "")*@
+    </p>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+

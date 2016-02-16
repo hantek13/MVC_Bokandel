@@ -1,0 +1,75 @@
+﻿@model IEnumerable<MVC_Bokhandel.Models.Kunde>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DbBruker.BrukerNavn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Poststed.Poststedet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Etternavn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fornavn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adresse)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fodselsdato)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TelefonNr)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Epost)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DbBruker.BrukerNavn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Poststed.Poststedet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Etternavn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fornavn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Adresse)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fodselsdato)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TelefonNr)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Epost)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.BrukerNavn }) |
+            @Html.ActionLink("Details", "Details", new { id=item.BrukerNavn }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.BrukerNavn })
+        </td>
+    </tr>
+}
+
+</table>

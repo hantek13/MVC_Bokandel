@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Min Side";
+}
+<hr />
+<h2>Min Side</h2>
+<hr/>
+
+
+<div class="navbar">
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("Min Ordrehistorikk", "MinOrdreHistorikk", "Kundes", new { id = (string)ViewBag.Brukernavnet }, "")</li>
+            <li>@Html.ActionLink("Min Handlekurv", "Index", "HandleKurv")</li>
+            <li>@Html.ActionLink("Min Konto", "Details", "Kundes", new { id = (string)ViewBag.Brukernavnet }, "")</li>
+        </ul>
+    </div>
+</div>

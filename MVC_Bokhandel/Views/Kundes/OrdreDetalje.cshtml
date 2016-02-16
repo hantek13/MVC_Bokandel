@@ -1,0 +1,39 @@
+﻿@using MVC_Bokhandel.Models
+@model IEnumerable<MVC_Bokhandel.Models.Ordrelinje>
+
+@{
+    ViewBag.Title = "Ordre Detalje";
+}
+
+<h2>Ordre Detalje</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Bok.Tittel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Antall)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrisPrEnhet)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in (List<Ordrelinje>)ViewBag.Ordredetaljer)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bok.Tittel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Antall)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrisPrEnhet)
+        </td>
+    </tr>
+}
+</table>
+@Html.ActionLink("Min ordrehistorikk", "MinOrdreHistorikk", "Kundes", new { id = (string)ViewBag.Brukernavnet }, "")

@@ -1,0 +1,88 @@
+﻿@model MVC_Bokhandel.ViewModels.HandleKurvViewModel
+
+@{
+    ViewBag.Title = "Handle Kurv";
+}
+<script src="/Scripts/jquery-1.10.2.min.js"
+        type="text/javascript"></script>
+<script type="text/javascript">
+    $(function() {
+        //Document.ready -> lenkopp fjern event handler
+        $(".RemoveLink").click(function() {
+            var rekordTilSletting = $(this).attr("data-id");
+            if (rekordTilSletting != '') {
+                //utfør ajax post
+                $.post("/HandleKurv/FjernFraKurv", { "id": rekordTilSletting },
+                    function(data) {
+                        //Vellykket forespørsel kommer her
+                        //oppdater sidens element
+                        if (data.EnhetTell == 0) {
+                            $('#row-' + data.SletId).fadeOut('slow');
+                        } else {
+                            $('#enhet-tell-' + data.SletId).text(data.EnhetTell);
+                        }
+                        $('#kurv-total').text(data.KurvTotal);
+                        $('#oppdater-melding').text(data.Melding);
+                        $('#kurv-status').text('Kurv (' + data.KurvTell + ')');
+                    });
+            }
+        });
+    });
+</script>
+
+<h3>
+    <em>Gjennomgå</em> din kurv:
+</h3>
+<p class="button">
+    @*look*@
+    @Html.ActionLink("Gå til kassen >>", "AdresseOgBetaling", "Kassen")
+    
+</p>
+
+<div id="oppdater-melding">
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            Bok Tittel
+        </th>
+        <th>
+            Pris(pr stk)
+        </th>
+        <th>
+            Antall
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.KurvEnheter)
+{
+    <tr id="row-@item.RekordId">
+        <td>
+            @Html.ActionLink(item.Bok.Tittel, "Details", "Boks", new { id = item.BokId }, null) |
+        </td>
+        <td>
+            @item.Bok.Pris
+        </td>
+        <td id="enhet-tell-@item.RekordId">
+            @item.Tell
+        </td>
+        <td>
+            <a href="#" class="RemoveLink" data-id="@item.RekordId">Fjern fra kurvet</a>
+        </td>
+    </tr>
+}
+    <tr>
+        <td>
+            Total
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td id="kurv-total">
+            @Model.KurvTotal
+        </td>
+    </tr>
+</table>

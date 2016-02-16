@@ -1,0 +1,10 @@
+﻿@model int
+@{
+    ViewBag.Title = "Fullført Bestillingen";
+}
+
+<h2>Bestillingen er fullført</h2>
+<p>Takk for din ordre! Ditt ordrenummer er: @Model</p>
+RedirectToAction("OrdreDetalje", "Kundes");
+<p>Klikk @Html.ActionLink("her", "OrdreDetalje", "Kundes", new { id = @Model }, "") for å se på din kvittering.</p>
+<p>Du er hjertelig velkommen tilbake til vår @Html.ActionLink("bokhandel", "Index", "Boks")</p>

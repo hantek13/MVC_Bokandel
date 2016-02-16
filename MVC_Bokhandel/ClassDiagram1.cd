@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MVC_Bokhandel.Startup" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+      <NewMemberFileName>App_Start\Startup.Auth.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.MvcApplication" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Controllers.BaseController" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAABAAkIAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\BaseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Controllers.BoksController" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACARAACAAAAAAAAAAAEAAEACAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\BoksController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Controllers.HandleKurvController" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAQAAEAACAAAAA=</HashCode>
+      <FileName>Controllers\HandleKurvController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Controllers.HomeController" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Controllers.KassenController" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABAAAAAAAAAAAAAAAQAAAAAAAAEAA=</HashCode>
+      <FileName>Controllers\KassenController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Controllers.KundesController" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACARAACAAAAAAAAAAAEAAEACAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\KundesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Controllers.SikkerhetController" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIEAAAAAAAAAAEAABQAAAAAAAEAAAASAAA=</HashCode>
+      <FileName>Controllers\SikkerhetController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.DAL.BokhandelContext" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAKASAAAAAAAAQAECAABAEIAAAAABAGgAAAAAAAA=</HashCode>
+      <FileName>DAL\BokhandelContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.DAL.BokhandelInitializer" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\BokhandelInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Bok" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARCAAAAAAgCAAAAAEAAAAAAAQkAAAACAAAAAABAAAA=</HashCode>
+      <FileName>Models\Bok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.BokForfatter" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBACAAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BokForfatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.BokSjanger" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAAAEACAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\BokSjanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Bruker" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAABAAAAAAAA=</HashCode>
+      <FileName>Models\Bruker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.DbBruker" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAAA=</HashCode>
+      <FileName>Models\Bruker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Forfatter" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACECAEAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forfatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.HandleKurv" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAIAAAAAAkIAAAAEQAAAAAQAADAAAAAIAE=</HashCode>
+      <FileName>Models\HandleKurv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Kunde" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAEAIIAAACAAABAAAAAAAQAAAAAAAAAgAQCAAAAA=</HashCode>
+      <FileName>Models\Kunde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Kurv" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAAAAAAAAAAAAAAAAAAAIAAAAACAgAAAIAAAA=</HashCode>
+      <FileName>Models\Kurv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Leveringsadresse" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAQAAAAAA=</HashCode>
+      <FileName>Models\Leveringsadresse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Ordre" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACECAEAIAAAACAAABACAAAAAQAAAQAAAQAAAQAAAAAA=</HashCode>
+      <FileName>Models\Ordre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Ordrelinje" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAAAAAAAAAAAAIAAIAAAEAAAAAEAAE=</HashCode>
+      <FileName>Models\Ordrelinje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Poststed" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAgAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Models\Poststed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.Models.Sjanger" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAgAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sjanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.ViewModels.HandleKurvFjernViewModel" Collapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACQAAAAAAAAAAAAAAACAAAAAAAAAAQAAAAAAABAAA=</HashCode>
+      <FileName>ViewModels\HandleKurvFjernViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MVC_Bokhandel.ViewModels.HandleKurvViewModel" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HandleKurvViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MVC_Bokhandel.Models.Format" Collapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Models\Bok.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MVC_Bokhandel.Models.Rolle" Collapsed="true">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Models\Bruker.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

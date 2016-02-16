@@ -1,0 +1,30 @@
+﻿@using MVC_Bokhandel.Controllers
+
+@if (Session["LoggetInn"] != null && (bool) Session["LoggetInn"])
+{
+    using (Html.BeginForm("LoggUt", "Sikkerhet", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+    @Html.AntiForgeryToken()
+
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            @Html.ActionLink("Hei " + Session["BrukerNavn"] + "!", "MinSide", "Kundes", new { id = Session["BrukerNavn"] }, htmlAttributes: new { title = "Min Side" })
+        </li>
+        <li><a href="javascript:document.getElementById('logoutForm').submit()">Logg ut</a></li>
+        <li>
+            @Html.ActionLink("Handlekurven", "Index", "HandleKurv")
+        </li>
+    </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Register", "Registrer", "Sikkerhet", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Index", "Sikkerhet", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+        <li>
+            @Html.ActionLink("Handlekurven", "Index", "HandleKurv")
+        </li>
+
+    </ul>
+}
